@@ -1,2 +1,6 @@
 heloo
+<<<<<<< HEAD
 swapnil
+=======
+swapnil patil 5679
+>>>>>>> parent of 3aa4672... Revert "Revert "Revert "delete"""
